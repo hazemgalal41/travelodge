@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/hazemgalal41/lifenews/static/css/main.183e8580.css",
-    "main.js": "/hazemgalal41/lifenews/static/js/main.9b2fb70e.js",
-    "static/js/787.b0e7975c.chunk.js": "/hazemgalal41/lifenews/static/js/787.b0e7975c.chunk.js",
-    "static/media/logo.svg": "/hazemgalal41/lifenews/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/wlogo.svg": "/hazemgalal41/lifenews/static/media/wlogo.3dcb850f82104d4f77b8c1b886df1796.svg",
-    "static/media/error1.svg": "/hazemgalal41/lifenews/static/media/error1.f492eba87979b83caf01a8beee4981b3.svg",
-    "index.html": "/hazemgalal41/lifenews/index.html",
-    "main.183e8580.css.map": "/hazemgalal41/lifenews/static/css/main.183e8580.css.map",
-    "main.9b2fb70e.js.map": "/hazemgalal41/lifenews/static/js/main.9b2fb70e.js.map",
-    "787.b0e7975c.chunk.js.map": "/hazemgalal41/lifenews/static/js/787.b0e7975c.chunk.js.map"
+    "main.css": "/hazemgalal41/lifenews.git/static/css/main.183e8580.css",
+    "main.js": "/hazemgalal41/lifenews.git/static/js/main.c484efb9.js",
+    "static/js/787.b0e7975c.chunk.js": "/hazemgalal41/lifenews.git/static/js/787.b0e7975c.chunk.js",
+    "static/media/logo.svg": "/hazemgalal41/lifenews.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/wlogo.svg": "/hazemgalal41/lifenews.git/static/media/wlogo.3dcb850f82104d4f77b8c1b886df1796.svg",
+    "static/media/error1.svg": "/hazemgalal41/lifenews.git/static/media/error1.f492eba87979b83caf01a8beee4981b3.svg",
+    "index.html": "/hazemgalal41/lifenews.git/index.html",
+    "main.183e8580.css.map": "/hazemgalal41/lifenews.git/static/css/main.183e8580.css.map",
+    "main.c484efb9.js.map": "/hazemgalal41/lifenews.git/static/js/main.c484efb9.js.map",
+    "787.b0e7975c.chunk.js.map": "/hazemgalal41/lifenews.git/static/js/787.b0e7975c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.183e8580.css",
-    "static/js/main.9b2fb70e.js"
+    "static/js/main.c484efb9.js"
   ]
 }
